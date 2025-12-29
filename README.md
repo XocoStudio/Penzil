@@ -17,7 +17,6 @@ The project is currently on pause and offered as-is.
 
 - Penzil is a fully local application. No servers are involved. Because of the size of the files (and, partially, scope) saving and loading is currently done manually. You can save a .json file with your drawing and restore it with Load. Big files will take a long time to load as the geometries are not optimized yet.
 - Penzil exports in a format friendly to Blender's grease pencil but an importer is necessary. The importer doesn't exist yet but I have a Python script that can be run from Blender. If you want to import into Blender, join the Penzil Discord server. You can find the link in the app.
-
 ## Penzil
 
 ### Repositorios y aplicaciones
@@ -40,8 +39,13 @@ The project is currently on pause and offered as-is.
 
 ---
 
+- **XocoStudio (Penzil Pro)**
+  - Repositorio: [https://github.com/XocoStudio/Penzil-Pro-](https://github.com/XocoStudio/Penzil-Pro-)
+  - Aplicación: [https://xocostudio.github.io/Penzil-Pro-/](https://xocostudio.github.io/Penzil-Pro-/)
+
+---
+
 ### Aplicación oficial
 
 - Web oficial: [https://www.jacopocolo.com/penzil/](https://www.jacopocolo.com/penzil/)
 - YouTube: [https://www.youtube.com/@jacopocolo993/videos](https://www.youtube.com/@jacopocolo993/videos)
-
