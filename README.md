@@ -40,6 +40,7 @@ The project is currently on pause and offered as-is.
 ---
 
 - **XocoStudio (Penzil Pro)**
+  ![Preview of Penzil pro user interface](penzil-pro.jpg "Preview of Penzil pro user interface")
   - Repositorio: [https://github.com/XocoStudio/Penzil-Pro-](https://github.com/XocoStudio/Penzil-Pro-)
   - Aplicación: [https://xocostudio.github.io/Penzil-Pro-/](https://xocostudio.github.io/Penzil-Pro-/)
 
